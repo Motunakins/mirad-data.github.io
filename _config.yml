@@ -1,6 +1,6 @@
 title: Mirad
-logo:https://github.com/Motunakins/Mo-Akinsanya/settings/og-template
+logo:https: //github.com/Motunakins/Mo-Akinsanya/settings/og-template
 show_downloads: True
 remote_theme: pages-themes/minimal@v0.2.0
-plugins:
+plugins: 
 - jekyll-remote-theme
