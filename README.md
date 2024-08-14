@@ -1,4 +1,6 @@
-Data Portfolio
+# Data Portfolio: Excel to SQL to ower BI
 
-This is my portfolio website
+# Vacat e-Commerce Sales Performance Analysis
+
+##### Prepared by Motunrayo Akinsanya 
 
